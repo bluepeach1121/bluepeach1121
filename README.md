@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @bluepeach1121
-- 👀 I’m interested in .coding, physics
--  🌱 I’m currently learning many things
-- 💞️ I’m looking to collaborate on collaborative projects
+- 👋 Hi, I’m bluepeach
+- I am very interested in Machine Learning, neural networks and building artificial intelligent ssytem 
+- 💞️ I believe computing technology would be one of the building blocks of the new future. 
 - 📫 How to reach me = olawalefortune1121gmail.com
+  
+
+**A Poem For You 👇👇**
+- See It Through <br>
+When you’re up against a trouble, <br>
+    Meet it squarely, face to face; <br>
+Lift your chin and set your shoulders, <br>
+    Plant your feet and take a brace. <br>
+When it’s vain to try to dodge it, <br>
+    Do the best that you can do; <br>
+You may fail, but you may conquer, <br>
+    See it through! <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Edgar A. Guest. 
 
 <!---
 bluepeach1121/bluepeach1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
--the world is changing change with it
