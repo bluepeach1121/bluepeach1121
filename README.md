@@ -1,6 +1,5 @@
 - 👋 Hi, I’m bluepeach
 - I am very interested in Machine Learning, neural networks and building artificial intelligent ssytem 
-- 💞️ I believe computing technology would be one of the building blocks of the new future. 
 - 📫 How to reach me = olawalefortune1121gmail.com
   
 
