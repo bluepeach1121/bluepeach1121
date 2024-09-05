@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fortune, An Electrical Engineering Student at University of British Columbia 
-- I am very interested in Machine Learning, neural networks and building artificial intelligent ssytem 
+- I am very interested in Machine Learning, neural networks and building artificial intelligent systems
 - 📫 How to reach me = olawalefortune1121@gmail.com
   
 
