@@ -1,4 +1,4 @@
-- 👋 Hi, I’m bluepeach
+- 👋 Hi, I’m Fortune, An Electrical Engineering Student at University of British Columbia 
 - I am very interested in Machine Learning, neural networks and building artificial intelligent ssytem 
 - 📫 How to reach me = olawalefortune1121gmail.com
   
