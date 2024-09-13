@@ -13,8 +13,8 @@ When it’s vain to try to dodge it, <br>
     Do the best that you can do; <br>
 You may fail, but you may conquer, <br>
     See it through! <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Edgar A. Guest. 
-
+                         -- Edgar A. Guest. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!---
 bluepeach1121/bluepeach1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
