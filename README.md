@@ -1,5 +1,5 @@
-- 👋 Hi, I’m an Electrical Engineering Student. 
-- I am very interested in Machine Learning, neural networks and building artificial intelligence systems
+- 👋 Hi, I’m an Elec Eng Student @ UBC 
+- I am very interested in Machine Learning, neural networks and open source contributions.
 
 ![naruto GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZvcGtuY2d6MGUwMW93dHVjMGk3OWxlZGJ6ZzJsd3gyOGs4YnAzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2y98KScHKeaQM/giphy.gif)
 
